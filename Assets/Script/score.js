@@ -50,6 +50,12 @@ function Update () {
 	//Exit
 	if( garbageNum <= 0 && endDelay < 0.0f){
 		//replay
-		 Application.LoadLevel("test5");
+		 Application.LoadLevel(Application.loadedLevel);
 	}
+	
+	//reset
+	if(Input.GetKey(KeyCode.Return)){
+		 Application.LoadLevel(Application.loadedLevel);
+	}
+
 }
