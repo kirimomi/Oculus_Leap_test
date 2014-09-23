@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}</ProjectGuid>
+	<ProjectGuid>{7CFEBF86-A03C-6DB5-7664-296503340AF3}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -113,7 +113,7 @@
      <None Include="Assets\LeapMotion\Shaders\LeapDistorted.shader" />
      <None Include="Assets\LeapMotion\Shaders\LeapUndistorted.shader" />
  <Reference Include="LeapCSharp.NET3.5">
- <HintPath>D:/UnityProjects/test4/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
+ <HintPath>D:/src/Oculus_Leap_test/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

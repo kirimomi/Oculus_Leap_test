@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{676467A7-148D-7EBF-A03C-C354AD29C9F3}</ProjectGuid>
+	<ProjectGuid>{F46FCC31-628E-4A54-A547-47B84663FF45}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -67,10 +67,10 @@
      <None Include="Assets\LeapMotion\Shaders\LeapDistorted.shader" />
      <None Include="Assets\LeapMotion\Shaders\LeapUndistorted.shader" />
  <Reference Include="Assembly-UnityScript">
- <HintPath>D:/UnityProjects/test4/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <HintPath>D:/src/Oculus_Leap_test/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
  </Reference>
  <Reference Include="LeapCSharp.NET3.5">
- <HintPath>D:/UnityProjects/test4/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
+ <HintPath>D:/src/Oculus_Leap_test/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -78,7 +78,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-vs.csproj">
-      <Project>{F71BC4FE-D0FD-B60A-1C51-81164C477FD7}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
+      <Project>{7CFEBF86-A03C-6DB5-7664-296503340AF3}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
