@@ -1,0 +1,1258 @@
+Initialize engine version: 4.5.3f3 (fca41a4fabea)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660 Ti (ID=0x1183)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityProjects\test4\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityProjects\test4\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\test4\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityProjects\test4\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\test4\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\UnityProjects\test4\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\UnityProjects\test4\test_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading D:\UnityProjects\test4\test_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 75Hz; virtual: 1920x1080 at 0,0
+OVRMainMenu: No OVRPlayerController attached.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Platform assembly: D:\UnityProjects\test4\test_Data\Managed\System.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at System.String.memcpy4 (System.Byte* dest, System.Byte* src, Int32 size) [0x00000] in <filename unknown>:0 
+  at System.String.memcpy (System.Byte* dest, System.Byte* src, Int32 size) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) OVR.Hmd:ovrHmd_GetTrackingState (intptr,double)
+  at OVR.Hmd.GetTrackingState (Double absTime) [0x00000] in <filename unknown>:0 
+  at OVRDevice.IsHMDPresent () [0x00000] in <filename unknown>:0 
+  at OVRMainMenu.CheckIfRiftPresent () [0x00000] in <filename unknown>:0 
+  at OVRMainMenu.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Platform assembly: D:\UnityProjects\test4\test_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 3.868956 ms
+OVRMainMenu: No OVRPlayerController attached.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 20795 unused Assets to reduce memory usage. Loaded Objects now: 1303.
+Total: 106.507881 ms (FindLiveObjects: 0.981897 ms CreateObjectMapping: 1.697755 ms MarkObjects: 0.202447 ms  DeleteObjects: 103.315407 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at System.String.memcpy4 (System.Byte* dest, System.Byte* src, Int32 size) [0x00000] in <filename unknown>:0 
+  at System.String.memcpy (System.Byte* dest, System.Byte* src, Int32 size) [0x00000] in <filename unknown>:0 
+  at (wrapper managed-to-native) OVR.Hmd:ovrHmd_GetTrackingState (intptr,double)
+  at OVR.Hmd.GetTrackingState (Double absTime) [0x00000] in <filename unknown>:0 
+  at OVRDevice.IsHMDPresent () [0x00000] in <filename unknown>:0 
+  at OVRMainMenu.CheckIfRiftPresent () [0x00000] in <filename unknown>:0 
+  at OVRMainMenu.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at InteractionSceneSetup.EnsureInstanceInitialized () [0x00000] in <filename unknown>:0 
+  at Leap.Interact.LeapInteraction.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
