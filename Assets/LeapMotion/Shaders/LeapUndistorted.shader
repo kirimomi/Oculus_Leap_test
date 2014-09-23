@@ -64,11 +64,11 @@
 
           float4 color = _Color;
 
-          if (a<0.3) {
-            color.a = 0;
+          if (_BlackIsTransparent == 1) {
+            color.a *= a;
           }
           else {
-            color = a * color * float4(0.941,0.721,0.627,1);
+            color = a * color;;
             color.a = 1.0;
           }
           return color;
