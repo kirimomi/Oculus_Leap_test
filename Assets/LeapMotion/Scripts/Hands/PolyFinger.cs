@@ -9,34 +9,40 @@ using System.Collections;
 using System;
 using Leap;
 
+/** Draws the bones of the finger as a polygonal tube. **/
 public class PolyFinger : FingerModel {
 
   const int MAX_SIDES = 30;
   const int TRIANGLE_INDICES_PER_QUAD = 6;
   const int VERTICES_PER_QUAD = 4;
 
+  /** The number of sides for finger tube. */
   public int sides = 4;
+  /** Whether to smooth the mesh normals, providing a smoother appearance.*/
   public bool smoothNormals = false;
   public float startingAngle = 0.0f;
+  /** An array containing the width of the finger at each joint. */
   public float[] widths = new float[NUM_JOINTS];
   
-  private Vector3[] vertices_;
-  private Vector3[] normals_;
-  private Vector3[] joint_vertices_;
+  protected Vector3[] vertices_;
+  protected Vector3[] normals_;
+  protected Vector3[] joint_vertices_;
 
-  private Mesh mesh_;
-  private Mesh cap_mesh_;
-  private Vector3[] cap_vertices_;
+  protected Mesh mesh_;
+  protected Mesh cap_mesh_;
+  protected Vector3[] cap_vertices_;
 
+  /** Creates the finger mesh. */
   public override void InitFinger() {
     InitJointVertices();
     InitCapsMesh();
     InitMesh();
-
     GetComponent<MeshFilter>().mesh = new Mesh();
+
     UpdateFinger();
   }
 
+  /** Updates the mesh.*/
   public override void UpdateFinger() {
     UpdateMesh();
     UpdateCapMesh();

@@ -10,26 +10,38 @@ using Leap;
 
 // Class to setup a rigged hand based on a model.
 public class RiggedHand : HandModel {
+  public override ModelType HandModelType {
+    get {
+      return ModelType.Graphics;
+    }
+  }
 
-  public Transform palm;
-  public Transform foreArm;
+  public Vector3 modelFingerPointing = Vector3.forward;
+  public Vector3 modelPalmFacing = -Vector3.up;
 
   public override void InitHand() {
+    Debug.Log("HandModel.InitHand()");
     UpdateHand();
+  }
+
+  public Quaternion Reorientation() {
+    return Quaternion.Inverse(Quaternion.LookRotation(modelFingerPointing, -modelPalmFacing));
   }
 
   public override void UpdateHand() {
     if (palm != null) {
       palm.position = GetPalmPosition();
-      palm.rotation = GetPalmRotation();
+      palm.rotation = GetPalmRotation() * Reorientation();
     }
 
-    if (foreArm != null)
-      foreArm.rotation = GetArmRotation();
+    if (forearm != null)
+      forearm.rotation = GetArmRotation() * Reorientation();
 
     for (int i = 0; i < fingers.Length; ++i) {
-      if (fingers[i] != null)
+      if (fingers[i] != null) {
+				fingers[i].fingerType = (Finger.FingerType)i;
         fingers[i].UpdateFinger();
-    }
+			}
+		}
   }
 }

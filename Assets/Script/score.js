@@ -17,7 +17,7 @@ function Update () {
 	var garbages : GameObject[];
 	garbages = GameObject.FindGameObjectsWithTag ("Garbage");
 	for (var garbage : GameObject in garbages)  {  
-		if(garbage.transform.position.y > 0.0f){
+		if(-1.0f < garbage.transform.position.y){
 			garbageNum ++;
 		}
 	}
